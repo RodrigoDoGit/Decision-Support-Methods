@@ -1,0 +1,3 @@
+model ../Práticas/P1/ex3.mod
+solve;
+display length, width, height, volume;

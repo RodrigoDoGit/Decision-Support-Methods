@@ -1,0 +1,3 @@
+model ../Práticas/P1/ex5.mod 
+solve;
+display ribbons, coils, profit;
