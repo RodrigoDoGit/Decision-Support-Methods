@@ -4,8 +4,8 @@ var height;
 
 maximize volume: length * width * height;
 
-R1: height <= width;
+HEIGHT: height <= width;
 
-R2: width <= length;
+WIDTH: width <= length;
 
-R3: length + width <= 72;
+MAX: length + width <= 72;

@@ -8,10 +8,10 @@ Objective:  cost = 8820 (MINimum)
    No.   Row name   St   Activity     Lower bound   Upper bound    Marginal
 ------ ------------ -- ------------- ------------- ------------- -------------
      1 cost         B           8820                             
-     2 R1           NL             7             7                     18.1818 
-     3 R2           B        16.3333             7               
-     4 R3           B              7             7               
-     5 R4           NL             7             7                     1241.82 
+     2 A            NL             7             7                     18.1818 
+     3 C            B        16.3333             7               
+     4 B1           B              7             7               
+     5 B2           NL             7             7                     1241.82 
 
    No. Column name  St   Activity     Lower bound   Upper bound    Marginal
 ------ ------------ -- ------------- ------------- ------------- -------------

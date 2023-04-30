@@ -8,7 +8,7 @@ Objective:  profit = 19 (MAXimum)
    No.   Row name   St   Activity     Lower bound   Upper bound    Marginal
 ------ ------------ -- ------------- ------------- ------------- -------------
      1 profit       B             19                             
-     2 R1           NU             5                           5           3.5 
+     2 LIMIT        NU             5                           5           3.5 
 
    No. Column name  St   Activity     Lower bound   Upper bound    Marginal
 ------ ------------ -- ------------- ------------- ------------- -------------

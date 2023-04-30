@@ -8,10 +8,10 @@ Objective:  profit = 100000 (MAXimum)
    No.   Row name   St   Activity     Lower bound   Upper bound    Marginal
 ------ ------------ -- ------------- ------------- ------------- -------------
      1 profit       B         100000                             
-     2 R1           B             80                         100 
-     3 R2           NU           100                         100          1000 
-     4 R3           B             60                         120 
-     5 R4           NU           320                         320         < eps
+     2 YELLOW       B             80                         100 
+     3 GREEN        NU           100                         100          1000 
+     4 BLACK        B             60                         120 
+     5 MAX          NU           320                         320         < eps
 
    No. Column name  St   Activity     Lower bound   Upper bound    Marginal
 ------ ------------ -- ------------- ------------- ------------- -------------
