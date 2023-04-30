@@ -1,3 +1,3 @@
-model ../Práticas/P1/ex6.mod 
+model ex6.mod 
 solve;
 display steak, chicken, fish, hamburger, noodle, patty, spaghetti, peru, cost;
