@@ -1,0 +1,3 @@
+model ex3.mod 
+solve;
+display profit, recorders, radios;

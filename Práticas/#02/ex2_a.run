@@ -1,0 +1,3 @@
+model ex2_a.mod 
+solve;
+display revenue, corn, wheat;
