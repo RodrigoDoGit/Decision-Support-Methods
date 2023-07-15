@@ -3,4 +3,5 @@ Neste repositório está o código relativo à Unidade Curricular de Métodos de
 
 | Diretório    | Descrição |
 | :----------- | :-----------------------------------------------------------------------------------------|
+| Exemplos de Código | Código fonte disponibilizado para teste |
 | Práticas  | Resoluções dos exercícios das aulas práticas |
