@@ -1,3 +1,0 @@
-model ex5.mod 
-solve;
-display ribbons, coils, profit;

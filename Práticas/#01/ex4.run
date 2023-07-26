@@ -1,3 +1,0 @@
-model ex4.mod 
-solve;
-display yellow, green, black, A, B, profit;

@@ -1,4 +1,0 @@
-model ex2_a.mod 
-option solver gurobi;
-solve;
-display revenue, corn, wheat;

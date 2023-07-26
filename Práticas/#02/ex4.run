@@ -1,4 +1,0 @@
-model ex4.mod 
-data ex4.dat 
-solve;
-display revenue, purchase_cost, advertising_cost, production_cost, profit;

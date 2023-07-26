@@ -1,3 +1,0 @@
-model ex1.mod 
-solve;
-display laptops, desktops, profit;

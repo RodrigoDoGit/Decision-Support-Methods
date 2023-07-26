@@ -1,3 +1,0 @@
-model ex2.mod
-solve;
-display x, y, revenue, employees;

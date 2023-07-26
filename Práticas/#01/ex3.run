@@ -1,3 +1,0 @@
-model ex3.mod
-solve;
-display length, width, height, volume;

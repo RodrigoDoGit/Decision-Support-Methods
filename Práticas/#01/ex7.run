@@ -1,3 +1,0 @@
-model ex7.mod 
-solve;
-display factory1, factory2, factory3, cost;
