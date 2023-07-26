@@ -1,7 +1,7 @@
-# Métodos de Apoio à Decisão (CC3003)
-Neste repositório está o código relativo à Unidade Curricular de Métodos de Apoio à Decisão do Ano Letivo 2022/2023 - DCC/FCUP.
+# Decision Support Methods (CC3003)
+This repository contains the code for Decision Support Methods Course Unit of 2022/2023 Academic Year - DCC/FCUP.
 
-| Diretório    | Descrição |
+| Folder   | Description |
 | :----------- | :-----------------------------------------------------------------------------------------|
-| Exemplos de Código | Código fonte disponibilizado para teste |
-| Práticas  | Resoluções dos exercícios das aulas práticas |
+| Code Examples | Source code given to test |
+| Lab Classes  | Resolutions of the lab classes exercises |

@@ -1,0 +1,3 @@
+model ex1.mod 
+solve;
+display A, B, profit;

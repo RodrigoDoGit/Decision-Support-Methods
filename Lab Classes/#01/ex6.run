@@ -1,0 +1,3 @@
+model ex6.mod 
+solve;
+display steak, chicken, fish, hamburger, noodle, patty, spaghetti, peru, cost;
